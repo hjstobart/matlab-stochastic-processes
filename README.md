@@ -4,6 +4,7 @@ Numerical implementations for the simulation of well known stochastic processes 
 ## Contents:
 - `Arithmetic Brownian Motion`
 - `Geometric Brownian Motion`
+- `Brownian Bridge`
 
 ## Note:
 Dear reader,
