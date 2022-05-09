@@ -3,8 +3,9 @@ Numerical implementations for the simulation of well known stochastic processes 
 
 ## Contents:
 - `Arithmetic Brownian Motion`
-- `Geometric Brownian Motion`
 - `Brownian Bridge`
+- `Geometric Brownian Motion`
+- `Ornstein-Uhlenbeck Process` (Also known as: _Vasicek Model_)
 
 ## Note:
 Dear reader,
