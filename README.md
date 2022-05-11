@@ -4,6 +4,7 @@ Numerical implementations for the simulation of well known stochastic processes 
 ## Contents:
 - `Arithmetic Brownian Motion`
 - `Brownian Bridge`
+- `Feller Square Root Process` (Also known as: _Cox-Ingersoll-Ross Model_)
 - `Geometric Brownian Motion`
 - `Ornstein-Uhlenbeck Process` (Also known as: _Vasicek Model_)
 
