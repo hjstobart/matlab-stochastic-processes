@@ -9,6 +9,7 @@ Numerical implementations for the simulation of well known stochastic processes 
 - `Kou Jump Diffusion`
 - `Merton Jump Diffusion`
 - `Ornstein-Uhlenbeck Process` (Also known as: _Vasicek Model_)
+- `Variance Gamma Process`
 
 ## Note:
 Dear reader,
