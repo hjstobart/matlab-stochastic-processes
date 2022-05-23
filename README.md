@@ -24,9 +24,15 @@ As always the scripts may not be perfect, but I hope they provide some insight f
 H ✌️
 
 ---
+<details><summary>Terms & Conditions</summary>
+<p>
+
 #### Disclaimer:
 _This repository and the code therein may be freely copied and distributed as necessary. It is being provided solely for information and general illustrative purposes. The author will not be responsible for the consequences of reliance upon the code or for numbers produced from using the code._
 
 #### End User Terms of Service:
 Where appropriate, this repository is in compliance with Section C. Acceptable Use and Section D. User-Generated Content of the GitHub Terms of Service.  For more information, please see here: https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+
+  </p>
+  </details>
 
